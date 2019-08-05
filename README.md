@@ -2,11 +2,11 @@
 enhance economy museum visitor experience with augmented reality
 
 ### Team Members
-Joseph Wilson
-Ramith Unni
-Narendra Dalta 
-Aleem Meenap
-Paul Boyer 
+Joseph Wilson<br/>
+Ramith Unni<br/>
+Narendra Dalta<br/> 
+Aleem Meenap<br/>
+Paul Boyer<br/>
 
 ### Open Source Projects We Used
 ["AR.js"](https://github.com/jeromeetienne/AR.js) by [Jerome Etienne](https://twitter.com/jerome_etienne) is licensed under [MIT](https://github.com/jeromeetienne/AR.js/blob/master/LICENSE.txt)
